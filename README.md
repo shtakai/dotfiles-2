@@ -2,6 +2,8 @@ My configs for vim, git, tmux, and a plethora of BASH stuff. For a general idea 
 
 # Requirements
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dotfiles-2.svg)](https://www.guardrails.io)
+
 Depending on the install options you pick you'll need git and additionally
 
 If you choose to install vim configs:
